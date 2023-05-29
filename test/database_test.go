@@ -13,7 +13,7 @@ func init() {
 	username = "root" 
 	password = ""
 	host = "localhost"
-	namaDB = "db_16119464_pert4"
+	namaDB = "vania_16119464_pert4"
 	defaultDB = "mysql"
 }
 

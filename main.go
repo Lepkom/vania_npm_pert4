@@ -7,6 +7,6 @@ import (
 func main() {
 	http.HandleFunc("/api/", handler.API)
 	//Ganti 2 digit akhir port dengan 2 digit akhir NPM anda
-	log.Println("localhost : 8064")
+	log.Println("localhost : 8064") //16119464
 	http.ListenAndServe(":8064", nil) 
 }
